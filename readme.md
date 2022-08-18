@@ -6,8 +6,8 @@ Basically going from this
 
 to a zoomable leaflet map like this:
 
-![map](resources/map_leaflet_1.jpg)
-![map](resources/map_leaflet_2.jpg)
+![map](resources/map_leaflet_1.png)
+![map](resources/map_leaflet_2.png)
 
 Check out the jupyter notebook that show how to do it.
 
